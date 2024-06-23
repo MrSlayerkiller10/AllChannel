@@ -11,3 +11,5 @@ https://www.youtube.com/live/ZwD3-hUQ3rk?si=1QzeaD575RzbGjvj
 https://www.youtube.com/live/v2uhs8-zKCs?si=jxxzzsH93FJ1UOxU
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="News",Zee News
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 tvg-id="SonyHD.in" group-title="idk",SONY HD
+http://45.5.117.182:8000/play/a0i3/index.m3u8
