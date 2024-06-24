@@ -13,9 +13,5 @@ https://anym3u8player.com/youtube.php/id/66796982000e8.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="SonyHD.in" group-title="Entertainment (idk)",SONY TV HD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-id="SkySportCricket.uk" group-title="idk sport (progress)",SkySport Cricket
-https://sports.freesportstime.com/live/streamfreecric.m3u8
 #EXTINF:-1 tvg-id="StarSport.in" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-id="Astro.uk" group-title="Sports",Astro cricket
-https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
