@@ -5,7 +5,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="News (not working, still in progress)",NDTV 24x7
 https://www.youtube.com/live/sr2Ry9JVDtU?si=5U2bzRnUDy2p5H3F
-#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://i.imgur.com/NEAoh6O.png" group-title="News (not working, still in progress)",Republic Bharat
+#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://i.imgur.com/NEAoh6O.png" group-title="News (Currently Working)",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://i.imgur.com/K9KX8un.png" group-title="News (not working, still in progress)",Republic TV
 https://www.youtube.com/live/v2uhs8-zKCs?si=jxxzzsH93FJ1UOxU
