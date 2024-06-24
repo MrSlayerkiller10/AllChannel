@@ -13,3 +13,5 @@ https://www.youtube.com/live/v2uhs8-zKCs?si=jxxzzsH93FJ1UOxU
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1 tvg-id="SonyHD.in" group-title="idk (progress)",SONY HD
 http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1301.m3u8
+#EXTINF:-1 group-title="idk (progress)",SkySport Cricket
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
