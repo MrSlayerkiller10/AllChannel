@@ -15,5 +15,5 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="SkySportCricket.uk" group-title="idk sport (progress)",SkySport Cricket
 https://sports.freesportstime.com/live/streamfreecric.m3u8
-#EXTINF:-1 tvg-id="Willow.uk" group-title="idk sport (progress)",Willow Cricket
-http://178.62.148.20:8080/teNcRicKetT1/TEnNrcck3tYt/index.m3u8
+#EXTINF:-1 tvg-id="StarSport.in" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
