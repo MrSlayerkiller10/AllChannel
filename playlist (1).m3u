@@ -18,3 +18,4 @@ https://sports.freesportstime.com/live/streamfreecric.m3u8
 #EXTINF:-1 tvg-id="StarSport.in" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="Astro.uk" group-title="Sports",Astro cricket
+https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
