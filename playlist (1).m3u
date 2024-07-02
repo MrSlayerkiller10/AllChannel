@@ -15,5 +15,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="StarSport.in" tvg-logo="https://raw.githubusercontent.com/MrSlayerkiller10/Pic/main/800px-Star_Sports_1_HD.png" group-title="Sports",Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in" group-title="Entertainment", Zee Tv
+#EXTINF:-1 tvg-id="ZeeTV.in" group-title="Entertainment",Zee Tv
 https://z5ams.akamaized.net/zeetelegusd/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen5.in" group-title="Sports",Sony Six
+http://fr-c.movply.stream/hls/sony-six-hd.m3u8
